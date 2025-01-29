@@ -82,6 +82,7 @@ class DoctorProfile extends StatelessWidget {
                       Iconsax.calendar_1,
                       color: Colors.white,
                     ),
+                    const SizedBox(width: 5,),
                     UiHelper.customText(
                       text: "Today",
                       color: Colors.white,
