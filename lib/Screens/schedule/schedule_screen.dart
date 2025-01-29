@@ -7,7 +7,7 @@ class ScheduleScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       body: Center(
-        child: Text("Home"),
+        child: Text("Schedule"),
       ),
     );
   }

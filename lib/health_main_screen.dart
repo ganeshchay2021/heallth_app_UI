@@ -31,6 +31,7 @@ class _HealthAppMainScreenState extends State<HealthAppMainScreen> {
       ),
       bottomNavigationBar: BottomNavigationBar(
         useLegacyColorScheme: true,
+        iconSize: 30,
         currentIndex: currentIndex,
         backgroundColor: Colors.white,
         onTap: (value) {
